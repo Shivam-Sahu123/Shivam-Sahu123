@@ -11,5 +11,3 @@ Hello, I'm Shivam Sahu, a pre-final-year B.Tech student specializing in Computer
 ![](https://github-readme-stats.shion.dev/api?username=Shivam-Sahu123&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Shivam-Sahu123&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shivam-Sahu123&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
