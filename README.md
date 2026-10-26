@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hello, I'm Shivam Sahu, a pre-final-year B.Tech student specializing in Computer Science and Cyber Security at Rungta College of Engineering and Technology.<br><br>💻 I'm currently learning the MERN Stack and exploring Cybersecurity, continuously building my skills through hands-on projects and practical learning.
 
+AIM : Backend AI Engineering
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shivam-sahu-6995ab212) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nucleusshivam@gmail.com) 
